@@ -16,3 +16,9 @@
 - Acesse a URL "localhost/site-de-filmes".
 
 ***OBS:*** Para acessar a área de administrador no website, utilize o e-mail "admin@gmail.com" e a senha "123".
+
+### Exemplos de páginas do projeto
+
+![home](./imgs/home.PNG)
+
+![admin_page](./imgs/admin_page.PNG)
